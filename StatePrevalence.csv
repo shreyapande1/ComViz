@@ -1,0 +1,256 @@
+Area,Cancer Type,Duration,Sex,Race,Prevalence Count,Prevalence Percentage
+District of Columbia,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,3592,1.34144975
+Alaska,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,7373,1.58271188
+Wyoming,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,8959,1.82099233
+North Dakota,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,12367,1.91113759
+Vermont,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,12813,2.18719621
+Delaware,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,15287,2.50572258
+Rhode Island,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,18789,2.44068616
+Montana,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,20038,2.15007382
+Idaho,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,26352,1.79168044
+New Hampshire,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,28356,2.29926905
+Maine,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,28731,2.27220782
+Nebraska,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,31337,2.04785606
+Utah,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,34808,1.38013123
+Mississippi,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,34969,2.05828643
+West Virginia,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,36406,2.17120985
+Arkansas,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,45783,2.07085075
+Kansas,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,46704,2.08775323
+Oklahoma,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,50010,1.85916275
+Louisiana,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,57916,2.09928278
+Alabama,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,64838,1.99722555
+Oregon,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,66773,2.06112058
+South Carolina,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,67183,2.03211555
+Colorado,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,68704,1.73812113
+Maryland,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,70554,2.27252486
+Kentucky,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,79482,2.08500292
+Arizona,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,82715,2.06713032
+Missouri,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,94662,1.92100272
+Minnesota,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,97687,2.16210845
+Tennessee,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,101390,1.99677334
+Indiana,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,102751,1.92503274
+Wisconsin,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,102792,2.16329998
+Washington,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,108314,2.04955633
+Georgia,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,116428,2.07375004
+New Jersey,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,131604,2.66380404
+North Carolina,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,144865,2.17663752
+Illinois,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,174687,2.22859694
+Ohio,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,191635,2.06300689
+Pennsylvania,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,226897,2.30996025
+Texas,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,236291,1.94161514
+New York,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,273764,2.49588826
+Florida,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,306781,2.63512181
+California,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,351083,2.3380285
+Hawaii,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,Data Suppressed,Data Suppressed
+South Dakota,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,Data Suppressed,Data Suppressed
+Iowa,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,Data Suppressed,Data Suppressed
+Massachusetts,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,Data Suppressed,Data Suppressed
+Connecticut,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,Data Suppressed,Data Suppressed
+Nevada,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,Data Suppressed,Data Suppressed
+Virginia,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,Data Suppressed,Data Suppressed
+New Mexico,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,Data Suppressed,Data Suppressed
+Michigan,All Types of Cancer,5-year Limited Duration,Male and Female,White Non-Hispanic,Data Suppressed,Data Suppressed
+Montana,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,46,0.49467685
+Wyoming,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,47,0.56629918
+Vermont,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,72,0.70124178
+North Dakota,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,99,0.35738782
+Idaho,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,115,0.62590143
+Maine,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,159,0.61599256
+New Hampshire,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,171,0.71510716
+Alaska,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,258,0.80002481
+Utah,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,283,0.60457167
+Rhode Island,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,784,1.07913917
+West Virginia,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,1005,1.38569085
+Oregon,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,1090,1.02848624
+Nebraska,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,1167,1.08627358
+Kansas,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,2428,1.2552961
+Colorado,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,2734,1.02142604
+Arizona,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,3130,0.8630019
+Delaware,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,3378,1.5121604
+Minnesota,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,3505,0.83645263
+Washington,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,3675,0.98944591
+Oklahoma,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,3799,1.13529732
+Kentucky,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,5374,1.36140417
+District of Columbia,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,5388,1.66130935
+Wisconsin,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,5423,1.32955282
+Arkansas,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,6859,1.4201725
+Indiana,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,8466,1.21763106
+Missouri,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,10265,1.3574541
+Tennessee,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,15567,1.32016476
+Mississippi,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,16532,1.46012607
+Alabama,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,18830,1.42070479
+New Jersey,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,19213,1.60782817
+South Carolina,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,20098,1.44082633
+Ohio,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,21211,1.33661516
+Pennsylvania,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,21438,1.45471177
+Louisiana,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,22610,1.47338219
+Maryland,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,28341,1.51721096
+Illinois,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,28685,1.54189758
+California,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,33483,1.36843482
+North Carolina,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,35366,1.53032922
+Florida,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,41585,1.21040638
+Texas,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,43019,1.19864991
+Georgia,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,45651,1.33500432
+New York,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,48700,1.65921129
+Hawaii,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,Data Suppressed,Data Suppressed
+South Dakota,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,Data Suppressed,Data Suppressed
+Iowa,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,Data Suppressed,Data Suppressed
+Massachusetts,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,Data Suppressed,Data Suppressed
+Connecticut,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,Data Suppressed,Data Suppressed
+Nevada,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,Data Suppressed,Data Suppressed
+Virginia,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,Data Suppressed,Data Suppressed
+New Mexico,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,Data Suppressed,Data Suppressed
+Michigan,All Types of Cancer,5-year Limited Duration,Male and Female,Black Non-Hispanic,Data Suppressed,Data Suppressed
+District of Columbia,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,16,0.84813146
+West Virginia,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,21,0.53853058
+Vermont,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,29,1.08188771
+New Hampshire,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,36,0.9532636
+Delaware,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,41,1.17512181
+Rhode Island,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,49,0.92890995
+Kentucky,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,78,0.80354383
+Indiana,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,123,0.65807073
+South Carolina,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,128,0.62449687
+Tennessee,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,129,0.62422879
+Mississippi,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,130,0.84970097
+New Jersey,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,135,0.76591399
+Maine,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,137,1.32559265
+Alabama,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,146,0.49127648
+Ohio,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,153,0.5038364
+Louisiana,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,156,0.48257622
+Wyoming,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,174,1.3242513
+Maryland,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,175,0.97073915
+Nebraska,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,184,1.04598943
+Georgia,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,194,0.70338276
+Utah,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,212,0.64880415
+Pennsylvania,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,216,0.93441772
+Missouri,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,268,0.79801093
+Illinois,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,274,1.05453566
+Idaho,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,300,1.36936279
+Colorado,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,412,0.94820543
+Arkansas,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,414,1.61488503
+Kansas,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,414,1.46483857
+North Dakota,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,480,1.15406809
+Florida,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,611,1.00428176
+New York,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,663,0.92584835
+Oregon,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,824,1.4439421
+Minnesota,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,904,1.33367757
+Wisconsin,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,919,1.61382374
+Montana,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,927,1.32266073
+Texas,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,1381,1.29075071
+North Carolina,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,1448,1.17383832
+Alaska,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,1564,1.29807613
+Washington,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,1666,1.47533507
+Arizona,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,2276,0.77028122
+California,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,2853,1.37315301
+Oklahoma,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,6018,1.56684271
+Hawaii,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,Data Suppressed,Data Suppressed
+South Dakota,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,Data Suppressed,Data Suppressed
+Iowa,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,Data Suppressed,Data Suppressed
+Massachusetts,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,Data Suppressed,Data Suppressed
+Connecticut,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,Data Suppressed,Data Suppressed
+Nevada,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,Data Suppressed,Data Suppressed
+Virginia,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,Data Suppressed,Data Suppressed
+New Mexico,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,Data Suppressed,Data Suppressed
+Michigan,All Types of Cancer,5-year Limited Duration,Male and Female,American Indian and Alaska Native Non-Hispanic,Data Suppressed,Data Suppressed
+Wyoming,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,40,0.5687069
+Montana,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,75,0.64025952
+Vermont,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,78,0.6037619
+North Dakota,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,80,0.55669601
+West Virginia,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,119,0.70816472
+Maine,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,133,0.70543931
+District of Columbia,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,232,0.69893202
+New Hampshire,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,265,0.61658736
+Idaho,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,266,0.80363752
+Nebraska,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,292,0.52819608
+Mississippi,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,294,0.83154203
+Rhode Island,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,298,0.74228139
+Delaware,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,342,0.81265074
+Arkansas,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,452,0.71123979
+Kentucky,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,483,0.6132905
+Alaska,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,489,0.77573489
+Alabama,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,572,0.71285253
+South Carolina,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,647,0.64560871
+Kansas,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,671,0.67478894
+Oklahoma,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,758,0.71211822
+Louisiana,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,799,0.88064456
+Utah,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,890,0.71468149
+Indiana,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,975,0.54016172
+Tennessee,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,985,0.69548394
+Wisconsin,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,1049,0.56365727
+Missouri,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,1069,0.71581626
+Colorado,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,1626,0.74133006
+Arizona,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,1863,0.65970255
+Minnesota,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,1875,0.61087853
+Ohio,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,1928,0.61399025
+Oregon,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,2008,0.84695541
+North Carolina,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,2207,0.63335911
+Georgia,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,3762,0.77852335
+Pennsylvania,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,3930,0.79900704
+Maryland,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,4094,0.95551287
+Florida,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,5473,0.80941124
+Illinois,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,7309,0.94721011
+Washington,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,7408,0.90877865
+New Jersey,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,9042,0.99751669
+Texas,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,11425,0.73728086
+New York,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,23419,1.30361208
+California,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,70039,1.10798088
+Hawaii,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,Data Suppressed,Data Suppressed
+South Dakota,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,Data Suppressed,Data Suppressed
+Iowa,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,Data Suppressed,Data Suppressed
+Massachusetts,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,Data Suppressed,Data Suppressed
+Connecticut,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,Data Suppressed,Data Suppressed
+Nevada,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,Data Suppressed,Data Suppressed
+Virginia,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,Data Suppressed,Data Suppressed
+New Mexico,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,Data Suppressed,Data Suppressed
+Michigan,All Types of Cancer,5-year Limited Duration,Male and Female,Asian and Pacific Islander Non-Hispanic,Data Suppressed,Data Suppressed
+Vermont,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,72,0.56521569
+North Dakota,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,97,0.31161655
+Maine,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,127,0.54058656
+West Virginia,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,160,0.52259403
+Montana,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,283,0.65961985
+Alaska,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,300,0.56079483
+New Hampshire,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,362,0.67043866
+Mississippi,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,385,0.38995635
+Wyoming,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,436,0.7373833
+District of Columbia,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,512,0.64787574
+Delaware,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,715,0.77063607
+Kentucky,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,823,0.47565106
+Alabama,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,918,0.42103332
+Nebraska,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,1221,0.55880495
+Arkansas,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,1282,0.54883544
+Idaho,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,1353,0.59764652
+Missouri,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,1362,0.51131308
+Rhode Island,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,1484,0.86859056
+South Carolina,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,1546,0.51017378
+Minnesota,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,1595,0.51036325
+Louisiana,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,1786,0.72927577
+Tennessee,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,1833,0.47598521
+Oklahoma,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,2221,0.50822868
+Kansas,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,2325,0.65580892
+Wisconsin,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,2411,0.58182257
+Ohio,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,2470,0.52744981
+Indiana,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,2820,0.58428037
+Utah,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,3078,0.67921156
+Oregon,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,3448,0.61565932
+Maryland,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,3600,0.57193196
+North Carolina,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,5661,0.56155116
+Washington,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,5688,0.57678764
+Georgia,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,5824,0.56599107
+Pennsylvania,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,7314,0.73672319
+Colorado,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,9635,0.7741471
+Arizona,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,15942,0.69736602
+Illinois,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,17897,0.81370935
+New Jersey,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,19461,1.06228311
+New York,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,44330,1.18789701
+Florida,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,69060,1.24234251
+Texas,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,88826,0.77983878
+California,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,125205,0.81062763
+Hawaii,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,Data Suppressed,Data Suppressed
+South Dakota,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,Data Suppressed,Data Suppressed
+Iowa,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,Data Suppressed,Data Suppressed
+Massachusetts,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,Data Suppressed,Data Suppressed
+Connecticut,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,Data Suppressed,Data Suppressed
+Nevada,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,Data Suppressed,Data Suppressed
+Virginia,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,Data Suppressed,Data Suppressed
+New Mexico,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,Data Suppressed,Data Suppressed
+Michigan,All Types of Cancer,5-year Limited Duration,Male and Female,Hispanic,Data Suppressed,Data Suppressed
